@@ -1,0 +1,116 @@
+{
+  "des": [
+    {
+      "alt": "Eiffel Tower",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg",
+      "country": "France",
+      "location": "https://www.google.com/maps/place/Eiffel+Tower/@48.8588443,2.2943506",
+      "title": "Eiffel Tower",
+      "para": "The Eiffel Tower, a global icon of France, is located in Paris. This wrought-iron lattice tower is one of the most visited monuments in the world."
+    },
+    {
+      "alt": "Taj Mahal",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+      "country": "India",
+      "location": "https://www.google.com/maps/place/Taj+Mahal/@27.1750151,78.0421552,17z",
+      "title": "Taj Mahal",
+      "para": "The Taj Mahal, located in Agra, India, is a UNESCO World Heritage Site and one of the New Seven Wonders of the World. Built in the 17th century by Emperor Shah Jahan in memory of his wife Mumtaz Mahal."
+    },
+    {
+      "alt": "Great Wall of China",
+      "src": "https://img.static-kl.com/images/media/E5F5918C-9435-4CE6-9775780B48F3C39D?w=960",
+      "country": "China",
+      "location": "https://www.google.com/maps/place/Great+Wall+of+China",
+      "title": "Great Wall of China",
+      "para": "The Great Wall of China, a series of fortifications, is one of the greatest architectural feats in history. It spans thousands of kilometers across northern China."
+    },
+    {
+      "alt": "Sydney Opera House",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sydney_Opera_House_Sails.jpg",
+      "country": "Australia",
+      "location": "https://www.google.com/maps/place/Sydney+Opera+House/@-33.8567844,151.2152967",
+      "title": "Sydney Opera House",
+      "para": "The Sydney Opera House, an architectural masterpiece on the Sydney Harbor, is known for its unique sail-like design and cultural significance."
+    },
+    {
+      "alt": "Statue of Liberty",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Statue_of_Liberty_7.jpg",
+      "country": "United States",
+      "location": "https://www.google.com/maps/place/Statue+of+Liberty/@40.6892494,-74.0445004",
+      "title": "Statue of Liberty",
+      "para": "The Statue of Liberty, a gift from France to the United States, is an enduring symbol of freedom and democracy, located in New York Harbor."
+    },
+    {
+      "alt": "Christ the Redeemer",
+      "src": "https://learningmole.com/wp-content/uploads/2024/03/pexels-abraham-challco-17782075-scaled.jpg",
+      "country": "Brazil",
+      "location": "https://www.google.com/maps/place/Christ+the+Redeemer/@-22.951916,43.2104872",
+      "title": "Christ the Redeemer",
+      "para": "Christ the Redeemer is a monumental statue of Jesus Christ in Rio de Janeiro, Brazil. It is a symbol of Christianity and a cultural icon of Brazil."
+    },
+    {
+      "alt": "Colosseum",
+      "src": "https://st3.idealista.it/news/archivie/styles/fullwidth_xl/public/2022-08/media/image/dl_a01060255.jpg",
+      "country": "Italy",
+      "location": "https://www.google.com/maps/place/Colosseum/@41.8902102,12.4922309",
+      "title": "Colosseum",
+      "para": "The Colosseum in Rome, Italy, is an ancient amphitheater that was used for gladiatorial contests and public spectacles during the Roman Empire."
+    },
+    {
+      "alt": "Machu Picchu",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg",
+      "country": "Peru",
+      "location": "https://www.google.com/maps/place/Machu+Picchu",
+      "title": "Machu Picchu",
+      "para": "Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru. It's renowned for its sophisticated dry-stone construction and panoramic views."
+    },
+    {
+      "alt": "Mount Fuji",
+      "src": "https://cdn.japan-forward.com/wp-content/uploads/2022/02/Mt-Fuji-Eruption-Volcano-006-1024x689.jpg",
+      "country": "Japan",
+      "location": "https://www.google.com/maps/place/Mount+Fuji",
+      "title": "Mount Fuji",
+      "para": "Mount Fuji, Japan's tallest peak, is an active stratovolcano and a cultural icon of Japan. It's a popular destination for climbers and photographers."
+    },
+    {
+      "alt": "Pyramids of Giza",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+      "country": "Egypt",
+      "location": "https://www.google.com/maps/place/Pyramids+of+Giza",
+      "title": "Pyramids of Giza",
+      "para": "The Pyramids of Giza, located near Cairo, Egypt, are ancient pyramids that serve as tombs for pharaohs. They are among the Seven Wonders of the Ancient World."
+    },
+    {
+      "alt": "Burj Khalifa",
+      "src": "https://traveleva-blogs.gumlet.io/wp-content/uploads/2024/03/burj-khalifa-the-tallest-building-in-the-world.jpg",
+      "country": "United Arab Emirates",
+      "location": "https://www.google.com/maps/place/Burj+Khalifa",
+      "title": "Burj Khalifa",
+      "para": "The Burj Khalifa in Dubai, UAE, is the tallest building in the world, offering breathtaking views and luxurious experiences for visitors."
+    },
+    {
+      "alt": "Santorini",
+      "src": "https://themarkaz.org/wp-content/uploads/2022/03/The-Aegean-Sea-on-the-coast-of-Turkey-the-markaz-review.jpg",
+      "country": "Greece",
+      "location": "https://www.google.com/maps/place/Santorini",
+      "title": "Santorini",
+      "para": "Santorini, an island in the Aegean Sea, is known for its stunning sunsets, whitewashed buildings, and vibrant blue domes."
+    },
+    {
+      "alt": "Stonehenge",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg",
+      "country": "United Kingdom",
+      "location": "https://www.google.com/maps/place/Stonehenge",
+      "title": "Stonehenge",
+      "para": "Stonehenge, a prehistoric monument in England, consists of massive stone slabs arranged in a circular layout, shrouded in mystery and history."
+    },
+    {
+      "alt": "Golden Gate Bridge",
+      "src": "https://content.paulreiffer.com/wp-content/uploads/2012/01/Paul_Reiffer_Photographer_San_Francisco_Golden_Gate_Bridge_Sunrise.jpg",
+      "country": "United States",
+      "location": "https://www.google.com/maps/place/Golden+Gate+Bridge",
+      "title": "Golden Gate Bridge",
+      "para": "The Golden Gate Bridge, a suspension bridge in San Francisco, is an iconic landmark known for its engineering marvel and picturesque views."
+    }
+  ]
+}
